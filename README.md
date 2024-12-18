@@ -5,3 +5,6 @@
 `npm install gh-pages --save-dev`
 
 `npm i -D @sveltejs/adapter-static`
+
+https://resume.narze.live/?ref=sveltethemes.dev
+pdf download
